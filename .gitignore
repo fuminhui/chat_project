@@ -1,0 +1,11 @@
+.vs/
+out/
+build/
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+*.ipch
+*.db
+*.opendb
